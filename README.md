@@ -1,5 +1,5 @@
 A simple digital financial statement dashboard. <br>
-Used: HTML & CSS
-Live App:
-Video: https://youtu.be/YBUBUgLLU_c
+Used: HTML & CSS <br>
+Live App: <br>
+Video: https://youtu.be/YBUBUgLLU_c <br>
 [Not Responsive]
